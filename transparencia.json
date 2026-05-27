@@ -4,12 +4,12 @@
     "subtitulo": "Centro General de Padres A Latina — resumen público de ingresos, gastos y saldo",
     "estado": "en_preparacion",
     "fuente": "Planilla oficial MOVIMIENTOS",
-    "ultima_actualizacion": "2026-05-26",
+    "ultima_actualizacion": "2026-05-27",
     "total_ingresos": 0,
-    "total_gastos": 144800,
-    "saldo_actual": -144800,
-    "cantidad_movimientos": 5,
-    "nota": "Datos preliminares. Falta ingresar ING-001 con el ingreso general de inicio de año; mientras tanto el saldo aparece negativo. Los enlaces a boletas revisadas se muestran por decisión de la autoridad responsable."
+    "total_gastos": 1230273,
+    "saldo_actual": -1230273,
+    "cantidad_movimientos": 20,
+    "nota": "Datos preliminares. Falta ingresar ING-001 con el ingreso general de inicio de año; mientras tanto el saldo aparece negativo. Los enlaces a respaldos se muestran según lo registrado en la planilla oficial. Filas incompletas no fueron publicadas."
   },
   "movimientos": [
     {
@@ -22,7 +22,7 @@
       "ingreso": 0,
       "gasto": 12130,
       "saldo_acumulado": -12130,
-      "respaldo_publico": "Ver boleta",
+      "respaldo_publico": "Ver respaldo",
       "respaldo_url": "https://drive.google.com/file/d/1rAUTFGl0aYkalleciIGZYFlnk3BUVtNN/view?usp=drive_link"
     },
     {
@@ -35,7 +35,7 @@
       "ingreso": 0,
       "gasto": 18360,
       "saldo_acumulado": -30490,
-      "respaldo_publico": "Ver boleta",
+      "respaldo_publico": "Ver respaldo",
       "respaldo_url": "https://drive.google.com/file/d/1eUcXYBvTzjIjRVfhal-DEznQFYRVDgkZ/view?usp=drive_link"
     },
     {
@@ -48,7 +48,7 @@
       "ingreso": 0,
       "gasto": 20230,
       "saldo_acumulado": -50720,
-      "respaldo_publico": "Ver boleta",
+      "respaldo_publico": "Ver respaldo",
       "respaldo_url": "https://drive.google.com/file/d/1ecbmdoCEDVEYYN2NwHjXb4ej5VjTTIvh/view?usp=drive_link"
     },
     {
@@ -61,7 +61,7 @@
       "ingreso": 0,
       "gasto": 40460,
       "saldo_acumulado": -91180,
-      "respaldo_publico": "Ver boleta",
+      "respaldo_publico": "Ver respaldo",
       "respaldo_url": "https://drive.google.com/file/d/18pgegIIxGt5h08qpPCqTMd6xi2A2Ls5a/view?usp=drive_link"
     },
     {
@@ -74,9 +74,205 @@
       "ingreso": 0,
       "gasto": 53620,
       "saldo_acumulado": -144800,
-      "respaldo_publico": "Ver boleta",
+      "respaldo_publico": "Ver respaldo",
       "respaldo_url": "https://drive.google.com/file/d/1nbp5ofimmjOJi2g9glaWNjJr19gqZRIl/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-006",
+      "fecha": "2026-04-10",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "BENCINA",
+      "proveedor_origen": "SHELL",
+      "ingreso": 0,
+      "gasto": 20000,
+      "saldo_acumulado": -164800,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1KsPIi5UTLyJPHR5E6zA0eUHY58foO6RA/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-007",
+      "fecha": "2026-05-02",
+      "tipo": "Gasto",
+      "tipo_documento": "FACTURA",
+      "detalle": "MANTENIMIENTO DE CAMARAS Y XVR",
+      "proveedor_origen": "SECURITYPROTECT SOLUCIONES EN SEGURIDAD SPA",
+      "ingreso": 0,
+      "gasto": 123000,
+      "saldo_acumulado": -287800,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1Ve6xOHqhC5Jg_Yde6C20TI2i5deniTQS/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-008",
+      "fecha": "2026-05-12",
+      "tipo": "Gasto",
+      "tipo_documento": "HONORARIOS",
+      "detalle": "REPARACION 3 IMPRESORAS ESCUELA",
+      "proveedor_origen": "JEAN PAUL NORAMBUENA CHAVEZ",
+      "ingreso": 0,
+      "gasto": 60003,
+      "saldo_acumulado": -347803,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1GG5AiljcYO6eZavQiv0kUV62p1zSi7bD/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-009",
+      "fecha": "2026-04-02",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "CORONA DE FLORES - DIRECTOR",
+      "proveedor_origen": "COMERCIAL FRUTICOLA JUAN CARLOS CORREA",
+      "ingreso": 0,
+      "gasto": 30000,
+      "saldo_acumulado": -377803,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1U7inaK1eB7xHHS-hUptI9AWdEU31eyUA/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-010",
+      "fecha": "2026-04-22",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "HOST PARA ALATINA.CL",
+      "proveedor_origen": "HOSTINGER",
+      "ingreso": 0,
+      "gasto": 20000,
+      "saldo_acumulado": -397803,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/16ubRjDb2khJbPkrkDidcYmTx8vFqMlWt/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-011",
+      "fecha": "2026-04-10",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "LAVADORA ESCUELA",
+      "proveedor_origen": "LIDER",
+      "ingreso": 0,
+      "gasto": 189990,
+      "saldo_acumulado": -587793,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1oEGwx9Yrf7uf9JMINEbv5QZtndODyVx_/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-012",
+      "fecha": "2026-04-10",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "RADIO TRANSMISORES",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 159990,
+      "saldo_acumulado": -747783,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1B2Ycj1mBmobXJFDscThzsHjk2CUwj64I/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-013",
+      "fecha": "2026-04-17",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "MATERIAES PARA CONFECCIÓN DE TUBOS PARA VOLEI",
+      "proveedor_origen": "JUAN GUAITA",
+      "ingreso": 0,
+      "gasto": 52940,
+      "saldo_acumulado": -800723,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/10xkWxaIMN01tpdJobVhokmXNhEkPKpx5/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-014",
+      "fecha": "2026-03-19",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "CATERING CUENTA PUBLICA",
+      "proveedor_origen": "SOCIEDAD ENTRE ESPIGAS",
+      "ingreso": 0,
+      "gasto": 17060,
+      "saldo_acumulado": -817783,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1sErgOoZHQpNVisLrxaeq82w5-VZy5dDX/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-015",
+      "fecha": "2026-03-09",
+      "tipo": "Gasto",
+      "tipo_documento": "TRANSFERENCIA",
+      "detalle": "TORTA DIA DE LA MUJER",
+      "proveedor_origen": "MARIA ISABEL DEL CARMEN AHUMADA",
+      "ingreso": 0,
+      "gasto": 35000,
+      "saldo_acumulado": -852783,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1dbk-ir3keTMoYvN7NYskyT83AHXwowNF/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-016",
+      "fecha": "2026-05-13",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "MATERIALES PARA INSTALACION DE MALLA DE VOLEI EN TUBOS",
+      "proveedor_origen": "FERRETERIA ELOI",
+      "ingreso": 0,
+      "gasto": 9500,
+      "saldo_acumulado": -862283,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1BaBDDi_5NVL8N1_gmaXxBOWDUMUNlU4Z/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-017",
+      "fecha": "2026-04-26",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "NIC CHILE NOMBRE WEB ALATINA.CL",
+      "proveedor_origen": "NICCHILE U DE CHILE",
+      "ingreso": 0,
+      "gasto": 9990,
+      "saldo_acumulado": -872273,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1-HMyMlxiFPLUt1mgOi9H4xO1mc60WAhS/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-18",
+      "fecha": "2026-04-10",
+      "tipo": "Gasto",
+      "tipo_documento": "RETIRO-EFECTIVO",
+      "detalle": "APOYO CAJA CHICA DIRECTOR ESCUELA",
+      "proveedor_origen": "CAJERO BANCO ESTADO ROMERAL",
+      "ingreso": 0,
+      "gasto": 200000,
+      "saldo_acumulado": -1072273,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1xduUfZ90jYUb42QelsxLrcDxEsIspr6G/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-19",
+      "fecha": "2026-04-17",
+      "tipo": "Gasto",
+      "tipo_documento": "TRANSFERENCIA",
+      "detalle": "APOYO COMPRA REFRIGERADOR ESCUELA",
+      "proveedor_origen": "TRANSFERENCIA A TIA ANITA VALENZUELA",
+      "ingreso": 0,
+      "gasto": 133000,
+      "saldo_acumulado": -1205273,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/101LF7w_DuIvg0hZSbhnw77iwsQONKrmz/view?usp=drive_link"
+    },
+    {
+      "id": "GAS-20",
+      "fecha": "2026-04-09",
+      "tipo": "Gasto",
+      "tipo_documento": "TRANSFERENCIA",
+      "detalle": "SERVICIO INSTALACION PUNTOS DE RED",
+      "proveedor_origen": "SECURITYPROTECT SOLUCIONES EN SEGURIDAD SPA",
+      "ingreso": 0,
+      "gasto": 25000,
+      "saldo_acumulado": -1230273,
+      "respaldo_publico": "Ver respaldo",
+      "respaldo_url": "https://drive.google.com/file/d/1zcNArzUwG0JwnyWRbvaOh6VEZMjmcv88/view?usp=drive_link"
     }
   ],
-  "nota_publica": "Los enlaces a boletas se publican porque fueron revisados y aprobados por la autoridad responsable."
+  "fotografias": [],
+  "nota_publica": "Los enlaces a respaldos se publican según los datos ingresados en la planilla oficial. Las fotografías de actividades se incorporarán posteriormente."
 }
