@@ -1,6 +1,21 @@
-﻿ID;Fecha;Tipo;Documento;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Respaldo público;Enlace boleta
-GAS-001;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE LAVADORA;SODIMAC;0;12130;-12130;Ver boleta;https://drive.google.com/file/d/1rAUTFGl0aYkalleciIGZYFlnk3BUVtNN/view?usp=drive_link
-GAS-002;2026-05-13;Gasto;BOLETA;SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI;SODIMAC;0;18360;-30490;Ver boleta;https://drive.google.com/file/d/1eUcXYBvTzjIjRVfhal-DEznQFYRVDgkZ/view?usp=drive_link
-GAS-003;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;20230;-50720;Ver boleta;https://drive.google.com/file/d/1ecbmdoCEDVEYYN2NwHjXb4ej5VjTTIvh/view?usp=drive_link
-GAS-004;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;40460;-91180;Ver boleta;https://drive.google.com/file/d/18pgegIIxGt5h08qpPCqTMd6xi2A2Ls5a/view?usp=drive_link
-GAS-005;2026-04-06;Gasto;BOLETA;MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO;SODIMAC;0;53620;-144800;Ver boleta;https://drive.google.com/file/d/1nbp5ofimmjOJi2g9glaWNjJr19gqZRIl/view?usp=drive_link
+﻿ID;Fecha;Tipo;Documento;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Respaldo público;Enlace respaldo
+GAS-001;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE LAVADORA;SODIMAC;0;12130;-12130;Ver respaldo;https://drive.google.com/file/d/1rAUTFGl0aYkalleciIGZYFlnk3BUVtNN/view?usp=drive_link
+GAS-002;2026-05-13;Gasto;BOLETA;SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI;SODIMAC;0;18360;-30490;Ver respaldo;https://drive.google.com/file/d/1eUcXYBvTzjIjRVfhal-DEznQFYRVDgkZ/view?usp=drive_link
+GAS-003;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;20230;-50720;Ver respaldo;https://drive.google.com/file/d/1ecbmdoCEDVEYYN2NwHjXb4ej5VjTTIvh/view?usp=drive_link
+GAS-004;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;40460;-91180;Ver respaldo;https://drive.google.com/file/d/18pgegIIxGt5h08qpPCqTMd6xi2A2Ls5a/view?usp=drive_link
+GAS-005;2026-04-06;Gasto;BOLETA;MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO;SODIMAC;0;53620;-144800;Ver respaldo;https://drive.google.com/file/d/1nbp5ofimmjOJi2g9glaWNjJr19gqZRIl/view?usp=drive_link
+GAS-006;2026-04-10;Gasto;BOLETA;BENCINA;SHELL;0;20000;-164800;Ver respaldo;https://drive.google.com/file/d/1KsPIi5UTLyJPHR5E6zA0eUHY58foO6RA/view?usp=drive_link
+GAS-007;2026-05-02;Gasto;FACTURA;MANTENIMIENTO DE CAMARAS Y XVR;SECURITYPROTECT SOLUCIONES EN SEGURIDAD SPA;0;123000;-287800;Ver respaldo;https://drive.google.com/file/d/1Ve6xOHqhC5Jg_Yde6C20TI2i5deniTQS/view?usp=drive_link
+GAS-008;2026-05-12;Gasto;HONORARIOS;REPARACION 3 IMPRESORAS ESCUELA;JEAN PAUL NORAMBUENA CHAVEZ;0;60003;-347803;Ver respaldo;https://drive.google.com/file/d/1GG5AiljcYO6eZavQiv0kUV62p1zSi7bD/view?usp=drive_link
+GAS-009;2026-04-02;Gasto;BOLETA;CORONA DE FLORES - DIRECTOR;COMERCIAL FRUTICOLA JUAN CARLOS CORREA;0;30000;-377803;Ver respaldo;https://drive.google.com/file/d/1U7inaK1eB7xHHS-hUptI9AWdEU31eyUA/view?usp=drive_link
+GAS-010;2026-04-22;Gasto;BOLETA;HOST PARA ALATINA.CL;HOSTINGER;0;20000;-397803;Ver respaldo;https://drive.google.com/file/d/16ubRjDb2khJbPkrkDidcYmTx8vFqMlWt/view?usp=drive_link
+GAS-011;2026-04-10;Gasto;BOLETA;LAVADORA ESCUELA;LIDER;0;189990;-587793;Ver respaldo;https://drive.google.com/file/d/1oEGwx9Yrf7uf9JMINEbv5QZtndODyVx_/view?usp=drive_link
+GAS-012;2026-04-10;Gasto;BOLETA;RADIO TRANSMISORES;SODIMAC;0;159990;-747783;Ver respaldo;https://drive.google.com/file/d/1B2Ycj1mBmobXJFDscThzsHjk2CUwj64I/view?usp=drive_link
+GAS-013;2026-04-17;Gasto;BOLETA;MATERIAES PARA CONFECCIÓN DE TUBOS PARA VOLEI;JUAN GUAITA;0;52940;-800723;Ver respaldo;https://drive.google.com/file/d/10xkWxaIMN01tpdJobVhokmXNhEkPKpx5/view?usp=drive_link
+GAS-014;2026-03-19;Gasto;BOLETA;CATERING CUENTA PUBLICA;SOCIEDAD ENTRE ESPIGAS;0;17060;-817783;Ver respaldo;https://drive.google.com/file/d/1sErgOoZHQpNVisLrxaeq82w5-VZy5dDX/view?usp=drive_link
+GAS-015;2026-03-09;Gasto;TRANSFERENCIA;TORTA DIA DE LA MUJER;MARIA ISABEL DEL CARMEN AHUMADA;0;35000;-852783;Ver respaldo;https://drive.google.com/file/d/1dbk-ir3keTMoYvN7NYskyT83AHXwowNF/view?usp=drive_link
+GAS-016;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE MALLA DE VOLEI EN TUBOS;FERRETERIA ELOI;0;9500;-862283;Ver respaldo;https://drive.google.com/file/d/1BaBDDi_5NVL8N1_gmaXxBOWDUMUNlU4Z/view?usp=drive_link
+GAS-017;2026-04-26;Gasto;BOLETA;NIC CHILE NOMBRE WEB ALATINA.CL;NICCHILE U DE CHILE;0;9990;-872273;Ver respaldo;https://drive.google.com/file/d/1-HMyMlxiFPLUt1mgOi9H4xO1mc60WAhS/view?usp=drive_link
+GAS-18;2026-04-10;Gasto;RETIRO-EFECTIVO;APOYO CAJA CHICA DIRECTOR ESCUELA;CAJERO BANCO ESTADO ROMERAL;0;200000;-1072273;Ver respaldo;https://drive.google.com/file/d/1xduUfZ90jYUb42QelsxLrcDxEsIspr6G/view?usp=drive_link
+GAS-19;2026-04-17;Gasto;TRANSFERENCIA;APOYO COMPRA REFRIGERADOR ESCUELA;TRANSFERENCIA A TIA ANITA VALENZUELA;0;133000;-1205273;Ver respaldo;https://drive.google.com/file/d/101LF7w_DuIvg0hZSbhnw77iwsQONKrmz/view?usp=drive_link
+GAS-20;2026-04-09;Gasto;TRANSFERENCIA;SERVICIO INSTALACION PUNTOS DE RED;SECURITYPROTECT SOLUCIONES EN SEGURIDAD SPA;0;25000;-1230273;Ver respaldo;https://drive.google.com/file/d/1zcNArzUwG0JwnyWRbvaOh6VEZMjmcv88/view?usp=drive_link
