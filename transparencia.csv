@@ -1,10 +1,6 @@
-﻿ID;Fecha;Tipo;Categoría;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Estado;Respaldo documental;Respaldo fotográfico;Detalle URL;Observación
-MOV-001;2026-05-05;Ingreso;Actividad escolar;Aporte actividad comunitaria;Comunidad escolar;250000;0;250000;Publicado;Registro revisado;No aplica;#mov-001;Registro de ejemplo para demostración.
-MOV-002;2026-05-10;Ingreso;Cuotas;Cuotas de apoderados marzo 2026;Apoderados;500000;0;750000;Publicado;Registro revisado;No aplica;#mov-002;Registro de ejemplo para demostración.
-MOV-003;2026-05-15;Gasto;Impresiones;Impresión de circulares y afiches;Imprenta local;0;45000;705000;Publicado;Boleta revisada;No aplica;#mov-003;Documento original queda en custodia interna.
-MOV-004;2026-05-18;Gasto;Actividad escolar;Pago show Día del Estudiante;Servicio recreativo;0;200000;505000;Publicado;Comprobante revisado;8 fotografías;#actividad-dia-estudiante;Actividad con respaldo fotográfico publicable.
-MOV-005;2026-05-20;Ingreso;Cuotas;Cuotas de apoderados abril 2026;Apoderados;250000;0;755000;Publicado;Registro revisado;No aplica;#mov-005;Registro de ejemplo para demostración.
-MOV-006;2026-05-22;Gasto;Alimentación;Compra de colaciones para actividad escolar;Distribuidora local;0;225000;530000;Publicado;Factura revisada;4 fotografías;#actividad-colaciones;Respaldo fotográfico de entrega de colaciones.
-MOV-007;2026-05-24;Gasto;Materiales escolares;Compra de lápices y cuadernos;Librería Central;0;120000;410000;Publicado;Boleta revisada;3 fotografías;#actividad-materiales;Respaldo fotográfico de materiales recibidos.
-MOV-008;2026-05-25;Gasto;Actividad escolar;Arriendo de sonido y apoyo técnico;Servicio técnico local;0;252450;157550;Publicado;Comprobante revisado;2 fotografías;#actividad-sonido;Documento original queda en custodia interna.
-MOV-009;2026-05-26;Ingreso;Cuotas;Cuotas de apoderados mayo 2026;Apoderados;250000;0;407550;Publicado;Registro revisado;No aplica;#mov-009;Registro de ejemplo para demostración.
+﻿ID;Fecha;Tipo;Documento;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Respaldo público
+GAS-001;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE LAVADORA;SODIMAC;0;12130;-12130;Respaldo en custodia interna
+GAS-002;2026-05-13;Gasto;BOLETA;SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI;SODIMAC;0;18360;-30490;Respaldo en custodia interna
+GAS-003;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;20230;-50720;Respaldo en custodia interna
+GAS-004;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;40460;-91180;Respaldo en custodia interna
+GAS-005;2026-04-06;Gasto;BOLETA;MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO;SODIMAC;0;53620;-144800;Respaldo en custodia interna
