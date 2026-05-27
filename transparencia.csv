@@ -1,6 +1,6 @@
-﻿ID;Fecha;Tipo;Documento;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Respaldo público
-GAS-001;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE LAVADORA;SODIMAC;0;12130;-12130;Respaldo en custodia interna
-GAS-002;2026-05-13;Gasto;BOLETA;SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI;SODIMAC;0;18360;-30490;Respaldo en custodia interna
-GAS-003;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;20230;-50720;Respaldo en custodia interna
-GAS-004;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;40460;-91180;Respaldo en custodia interna
-GAS-005;2026-04-06;Gasto;BOLETA;MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO;SODIMAC;0;53620;-144800;Respaldo en custodia interna
+﻿ID;Fecha;Tipo;Documento;Detalle;Proveedor u origen;Ingreso;Gasto;Saldo acumulado;Respaldo público;Enlace boleta
+GAS-001;2026-05-13;Gasto;BOLETA;MATERIALES PARA INSTALACION DE LAVADORA;SODIMAC;0;12130;-12130;Ver boleta;https://drive.google.com/file/d/1rAUTFGl0aYkalleciIGZYFlnk3BUVtNN/view?usp=drive_link
+GAS-002;2026-05-13;Gasto;BOLETA;SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI;SODIMAC;0;18360;-30490;Ver boleta;https://drive.google.com/file/d/1eUcXYBvTzjIjRVfhal-DEznQFYRVDgkZ/view?usp=drive_link
+GAS-003;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;20230;-50720;Ver boleta;https://drive.google.com/file/d/1ecbmdoCEDVEYYN2NwHjXb4ej5VjTTIvh/view?usp=drive_link
+GAS-004;2026-05-16;Gasto;BOLETA;SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI;SODIMAC;0;40460;-91180;Ver boleta;https://drive.google.com/file/d/18pgegIIxGt5h08qpPCqTMd6xi2A2Ls5a/view?usp=drive_link
+GAS-005;2026-04-06;Gasto;BOLETA;MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO;SODIMAC;0;53620;-144800;Ver boleta;https://drive.google.com/file/d/1nbp5ofimmjOJi2g9glaWNjJr19gqZRIl/view?usp=drive_link
