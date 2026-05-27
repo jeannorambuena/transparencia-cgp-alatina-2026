@@ -1,25 +1,77 @@
 {
   "metadata": {
-    "titulo": "Transparencia Financiera CGP 2026",
-    "subtitulo": "Centro General de Padres A Latina — Información pública de ingresos, gastos y respaldos",
-    "total_ingresos": 1250000,
-    "total_gastos": 842450,
-    "saldo_actual": 407550,
-    "ultima_actualizacion": "26-05-2026 18:30",
-    "movimientos": 9,
-    "actividades_respaldadas": 3,
-    "estado": "datos_demostrativos"
+    "titulo": "Transparencia Financiera CGP A Latina 2026",
+    "subtitulo": "Centro General de Padres A Latina — resumen público de ingresos, gastos y saldo",
+    "estado": "en_preparacion",
+    "fuente": "Planilla oficial MOVIMIENTOS",
+    "ultima_actualizacion": "2026-05-26",
+    "total_ingresos": 0,
+    "total_gastos": 144800,
+    "saldo_actual": -144800,
+    "cantidad_movimientos": 5,
+    "nota": "Datos preliminares. Falta ingresar ING-001 con el ingreso general de inicio de año; mientras tanto el saldo aparece negativo."
   },
   "movimientos": [
-    {"id":"MOV-001","fecha":"2026-05-05","tipo":"Ingreso","categoria":"Actividad escolar","detalle":"Aporte actividad comunitaria","proveedor_origen":"Comunidad escolar","ingreso":250000,"gasto":0,"estado":"Publicado","respaldo_documental":"Registro revisado","respaldo_fotografico":"No aplica","detalle_url":"#mov-001","observacion":"Registro de ejemplo para demostración.","saldo":250000},
-    {"id":"MOV-002","fecha":"2026-05-10","tipo":"Ingreso","categoria":"Cuotas","detalle":"Cuotas de apoderados marzo 2026","proveedor_origen":"Apoderados","ingreso":500000,"gasto":0,"estado":"Publicado","respaldo_documental":"Registro revisado","respaldo_fotografico":"No aplica","detalle_url":"#mov-002","observacion":"Registro de ejemplo para demostración.","saldo":750000},
-    {"id":"MOV-003","fecha":"2026-05-15","tipo":"Gasto","categoria":"Impresiones","detalle":"Impresión de circulares y afiches","proveedor_origen":"Imprenta local","ingreso":0,"gasto":45000,"estado":"Publicado","respaldo_documental":"Boleta revisada","respaldo_fotografico":"No aplica","detalle_url":"#mov-003","observacion":"Documento original queda en custodia interna.","saldo":705000},
-    {"id":"MOV-004","fecha":"2026-05-18","tipo":"Gasto","categoria":"Actividad escolar","detalle":"Pago show Día del Estudiante","proveedor_origen":"Servicio recreativo","ingreso":0,"gasto":200000,"estado":"Publicado","respaldo_documental":"Comprobante revisado","respaldo_fotografico":"8 fotografías","detalle_url":"#actividad-dia-estudiante","observacion":"Actividad con respaldo fotográfico publicable.","saldo":505000},
-    {"id":"MOV-005","fecha":"2026-05-20","tipo":"Ingreso","categoria":"Cuotas","detalle":"Cuotas de apoderados abril 2026","proveedor_origen":"Apoderados","ingreso":250000,"gasto":0,"estado":"Publicado","respaldo_documental":"Registro revisado","respaldo_fotografico":"No aplica","detalle_url":"#mov-005","observacion":"Registro de ejemplo para demostración.","saldo":755000},
-    {"id":"MOV-006","fecha":"2026-05-22","tipo":"Gasto","categoria":"Alimentación","detalle":"Compra de colaciones para actividad escolar","proveedor_origen":"Distribuidora local","ingreso":0,"gasto":225000,"estado":"Publicado","respaldo_documental":"Factura revisada","respaldo_fotografico":"4 fotografías","detalle_url":"#actividad-colaciones","observacion":"Respaldo fotográfico de entrega de colaciones.","saldo":530000},
-    {"id":"MOV-007","fecha":"2026-05-24","tipo":"Gasto","categoria":"Materiales escolares","detalle":"Compra de lápices y cuadernos","proveedor_origen":"Librería Central","ingreso":0,"gasto":120000,"estado":"Publicado","respaldo_documental":"Boleta revisada","respaldo_fotografico":"3 fotografías","detalle_url":"#actividad-materiales","observacion":"Respaldo fotográfico de materiales recibidos.","saldo":410000},
-    {"id":"MOV-008","fecha":"2026-05-25","tipo":"Gasto","categoria":"Actividad escolar","detalle":"Arriendo de sonido y apoyo técnico","proveedor_origen":"Servicio técnico local","ingreso":0,"gasto":252450,"estado":"Publicado","respaldo_documental":"Comprobante revisado","respaldo_fotografico":"2 fotografías","detalle_url":"#actividad-sonido","observacion":"Documento original queda en custodia interna.","saldo":157550},
-    {"id":"MOV-009","fecha":"2026-05-26","tipo":"Ingreso","categoria":"Cuotas","detalle":"Cuotas de apoderados mayo 2026","proveedor_origen":"Apoderados","ingreso":250000,"gasto":0,"estado":"Publicado","respaldo_documental":"Registro revisado","respaldo_fotografico":"No aplica","detalle_url":"#mov-009","observacion":"Registro de ejemplo para demostración.","saldo":407550}
+    {
+      "id": "GAS-001",
+      "fecha": "2026-05-13",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "MATERIALES PARA INSTALACION DE LAVADORA",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 12130,
+      "saldo_acumulado": -12130,
+      "respaldo_publico": "Respaldo en custodia interna"
+    },
+    {
+      "id": "GAS-002",
+      "fecha": "2026-05-13",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "SACOS DE HORMIGON RAPIDO PARA POSTES EN CANCHA VOLEI",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 18360,
+      "saldo_acumulado": -30490,
+      "respaldo_publico": "Respaldo en custodia interna"
+    },
+    {
+      "id": "GAS-003",
+      "fecha": "2026-05-16",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 20230,
+      "saldo_acumulado": -50720,
+      "respaldo_publico": "Respaldo en custodia interna"
+    },
+    {
+      "id": "GAS-004",
+      "fecha": "2026-05-16",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "SACOS DE HORMIGON ARMADO PARA CANCHA VOLEI",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 40460,
+      "saldo_acumulado": -91180,
+      "respaldo_publico": "Respaldo en custodia interna"
+    },
+    {
+      "id": "GAS-005",
+      "fecha": "2026-04-06",
+      "tipo": "Gasto",
+      "tipo_documento": "BOLETA",
+      "detalle": "MATERIALES PARA ARREGLO DE PORTON ESTACIONAMIENTO",
+      "proveedor_origen": "SODIMAC",
+      "ingreso": 0,
+      "gasto": 53620,
+      "saldo_acumulado": -144800,
+      "respaldo_publico": "Respaldo en custodia interna"
+    }
   ],
-  "nota_publica": "Los documentos originales se mantienen en custodia interna. En este portal se publica únicamente información revisada y aprobada para divulgación pública."
+  "nota_publica": "Los documentos originales, boletas y fotografías se mantienen en custodia interna. La publicación web muestra solo información resumida y revisada."
 }
