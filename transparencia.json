@@ -9,7 +9,7 @@
     "total_gastos": 144800,
     "saldo_actual": -144800,
     "cantidad_movimientos": 5,
-    "nota": "Datos preliminares. Falta ingresar ING-001 con el ingreso general de inicio de año; mientras tanto el saldo aparece negativo."
+    "nota": "Datos preliminares. Falta ingresar ING-001 con el ingreso general de inicio de año; mientras tanto el saldo aparece negativo. Los enlaces a boletas revisadas se muestran por decisión de la autoridad responsable."
   },
   "movimientos": [
     {
@@ -22,7 +22,8 @@
       "ingreso": 0,
       "gasto": 12130,
       "saldo_acumulado": -12130,
-      "respaldo_publico": "Respaldo en custodia interna"
+      "respaldo_publico": "Ver boleta",
+      "respaldo_url": "https://drive.google.com/file/d/1rAUTFGl0aYkalleciIGZYFlnk3BUVtNN/view?usp=drive_link"
     },
     {
       "id": "GAS-002",
@@ -34,7 +35,8 @@
       "ingreso": 0,
       "gasto": 18360,
       "saldo_acumulado": -30490,
-      "respaldo_publico": "Respaldo en custodia interna"
+      "respaldo_publico": "Ver boleta",
+      "respaldo_url": "https://drive.google.com/file/d/1eUcXYBvTzjIjRVfhal-DEznQFYRVDgkZ/view?usp=drive_link"
     },
     {
       "id": "GAS-003",
@@ -46,7 +48,8 @@
       "ingreso": 0,
       "gasto": 20230,
       "saldo_acumulado": -50720,
-      "respaldo_publico": "Respaldo en custodia interna"
+      "respaldo_publico": "Ver boleta",
+      "respaldo_url": "https://drive.google.com/file/d/1ecbmdoCEDVEYYN2NwHjXb4ej5VjTTIvh/view?usp=drive_link"
     },
     {
       "id": "GAS-004",
@@ -58,7 +61,8 @@
       "ingreso": 0,
       "gasto": 40460,
       "saldo_acumulado": -91180,
-      "respaldo_publico": "Respaldo en custodia interna"
+      "respaldo_publico": "Ver boleta",
+      "respaldo_url": "https://drive.google.com/file/d/18pgegIIxGt5h08qpPCqTMd6xi2A2Ls5a/view?usp=drive_link"
     },
     {
       "id": "GAS-005",
@@ -70,8 +74,9 @@
       "ingreso": 0,
       "gasto": 53620,
       "saldo_acumulado": -144800,
-      "respaldo_publico": "Respaldo en custodia interna"
+      "respaldo_publico": "Ver boleta",
+      "respaldo_url": "https://drive.google.com/file/d/1nbp5ofimmjOJi2g9glaWNjJr19gqZRIl/view?usp=drive_link"
     }
   ],
-  "nota_publica": "Los documentos originales, boletas y fotografías se mantienen en custodia interna. La publicación web muestra solo información resumida y revisada."
+  "nota_publica": "Los enlaces a boletas se publican porque fueron revisados y aprobados por la autoridad responsable."
 }
