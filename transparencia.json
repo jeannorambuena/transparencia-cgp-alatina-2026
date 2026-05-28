@@ -419,35 +419,71 @@
   "fotografias": [
     {
       "titulo": "Lavadora para la escuela",
-      "descripcion": "Carpeta con 3 fotografías del equipamiento adquirido para apoyar el funcionamiento diario de la escuela.",
+      "descripcion": "Carpeta de fotografías del equipamiento adquirido para apoyar el funcionamiento diario de la escuela.",
       "slug": "lavadora",
-      "url": "https://drive.google.com/thumbnail?id=1JxwO43lp9Mp9fngltZOFxgI1e8MmwV1R&sz=w1200",
+      "url": "https://drive.google.com/thumbnail?id=1JxwO43lp9Mp9fngltZOFxgI1e8MmwV1R&sz=w1600",
+      "portada_url": "https://drive.google.com/thumbnail?id=1JxwO43lp9Mp9fngltZOFxgI1e8MmwV1R&sz=w1600",
       "enlace_url": "https://drive.google.com/drive/folders/1xGkesFa13PYRF6XUwNE_4gzpkO1InNVq",
-      "cantidad_fotos": 3
+      "cantidad_fotos": 3,
+      "fotos": [
+        {
+          "nombre": "01",
+          "url": "https://drive.google.com/thumbnail?id=1JxwO43lp9Mp9fngltZOFxgI1e8MmwV1R&sz=w1600"
+        },
+        {
+          "nombre": "02",
+          "url": "https://drive.google.com/thumbnail?id=15Vj0scd7fyN6lmWba2D6kjDaK46tS6h7&sz=w1600"
+        },
+        {
+          "nombre": "03",
+          "url": "https://drive.google.com/thumbnail?id=11Vc5mx3KHjNZISJHAe-PMwtmjrfjayEb&sz=w1600"
+        }
+      ]
     },
     {
       "titulo": "Cámaras de seguridad",
-      "descripcion": "Carpeta con 1 fotografía de trabajos vinculados a mantención y apoyo a la seguridad del establecimiento.",
+      "descripcion": "Carpeta de fotografías vinculadas a mantención y apoyo a la seguridad del establecimiento.",
       "slug": "camaras-seguridad",
-      "url": "https://drive.google.com/thumbnail?id=1h2zNfqrh1aeu-zBTlcOgJBKP45K8MAUf&sz=w1200",
+      "url": "https://drive.google.com/thumbnail?id=1h2zNfqrh1aeu-zBTlcOgJBKP45K8MAUf&sz=w1600",
+      "portada_url": "https://drive.google.com/thumbnail?id=1h2zNfqrh1aeu-zBTlcOgJBKP45K8MAUf&sz=w1600",
       "enlace_url": "https://drive.google.com/drive/folders/1qbqkFw1vP-auUdrprsgTk1-ZRaxHVnfV",
-      "cantidad_fotos": 1
+      "cantidad_fotos": 1,
+      "fotos": [
+        {
+          "nombre": "01",
+          "url": "https://drive.google.com/thumbnail?id=1h2zNfqrh1aeu-zBTlcOgJBKP45K8MAUf&sz=w1600"
+        }
+      ]
     },
     {
       "titulo": "Página web Alatina",
-      "descripcion": "Carpeta con 1 fotografía asociada a la implementación del espacio digital de información y transparencia.",
+      "descripcion": "Carpeta de fotografías asociadas al espacio digital de información y transparencia.",
       "slug": "pagina-alatina",
-      "url": "https://drive.google.com/thumbnail?id=1L2QFSLzQoISea6js1b-GgVRnM9sgsy3e&sz=w1200",
+      "url": "https://drive.google.com/thumbnail?id=1L2QFSLzQoISea6js1b-GgVRnM9sgsy3e&sz=w1600",
+      "portada_url": "https://drive.google.com/thumbnail?id=1L2QFSLzQoISea6js1b-GgVRnM9sgsy3e&sz=w1600",
       "enlace_url": "https://drive.google.com/drive/folders/16vUfRRN-EB1fJ6pegX410bzXtxwypYnm",
-      "cantidad_fotos": 1
+      "cantidad_fotos": 1,
+      "fotos": [
+        {
+          "nombre": "01",
+          "url": "https://drive.google.com/thumbnail?id=1L2QFSLzQoISea6js1b-GgVRnM9sgsy3e&sz=w1600"
+        }
+      ]
     },
     {
       "titulo": "Corona de flores",
-      "descripcion": "Carpeta con 1 fotografía de acompañamiento institucional de la comunidad educativa.",
+      "descripcion": "Carpeta de fotografías de acompañamiento institucional de la comunidad educativa.",
       "slug": "coronas-florales",
-      "url": "https://drive.google.com/thumbnail?id=1CahxyXdJBgc_ZbhjIUSjFLKGmUzSvYNG&sz=w1200",
+      "url": "https://drive.google.com/thumbnail?id=1CahxyXdJBgc_ZbhjIUSjFLKGmUzSvYNG&sz=w1600",
+      "portada_url": "https://drive.google.com/thumbnail?id=1CahxyXdJBgc_ZbhjIUSjFLKGmUzSvYNG&sz=w1600",
       "enlace_url": "https://drive.google.com/drive/folders/18HB4oW1wtmKJoCBmvYTUAhZ1umYsq--a",
-      "cantidad_fotos": 1
+      "cantidad_fotos": 1,
+      "fotos": [
+        {
+          "nombre": "01",
+          "url": "https://drive.google.com/thumbnail?id=1CahxyXdJBgc_ZbhjIUSjFLKGmUzSvYNG&sz=w1600"
+        }
+      ]
     }
   ],
   "nota_publica": "Este portal presenta un resumen de los ingresos, gastos, respaldos documentales y registros fotográficos asociados a la gestión del Centro General de Padres A Latina. La información se actualiza desde una planilla oficial y los documentos completos se mantienen como respaldo interno."
